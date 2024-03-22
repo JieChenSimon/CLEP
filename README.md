@@ -3,7 +3,7 @@
 upcoming
 
 
-### Run with docker image
+### Easily Run with docker image
 We package SCOP into a docker image, making it easily deployable and runable locally.
 RUN:
 ```
