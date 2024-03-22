@@ -1,4 +1,11 @@
 # SCOP
+
+### Env
+```
+pip install -r requirements.txt
+```
+
+
 ### Datasets
 upcoming
 
