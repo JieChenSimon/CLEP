@@ -6,9 +6,6 @@ pip install -r requirements.txt
 ```
 
 
-### Datasets
-upcoming
-
 ### Run with Our Source Code
 ```
 1. change the path in dev.cfg, and the paths in every CLPT_xx.py
