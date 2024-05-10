@@ -1,5 +1,6 @@
 # SCOP
-
+### Note
+Each folder corresponds to a scenario, and the specific code is located in its respective subfolder.
 ### Env
 ```
 pip install -r requirements.txt
