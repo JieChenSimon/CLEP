@@ -1,6 +1,6 @@
-### NOte: SCOP is the original name of this project.
+### NOTE: SCOP is the original name of this project.
 
-# SCOP
+# CLEP(SCOP)
 ### Note
 Each folder corresponds to a scenario, and the specific code is located in its respective subfolder.
 ### Env
