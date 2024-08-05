@@ -1,3 +1,5 @@
+### NOte: SCOP is the original name of this project.
+
 # SCOP
 ### Note
 Each folder corresponds to a scenario, and the specific code is located in its respective subfolder.
